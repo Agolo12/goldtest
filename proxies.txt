@@ -1,10 +1,7 @@
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10000
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10001
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10002
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10003
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10004
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10005
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10006
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10007
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10008
-http://10d5040efd079141:RNW78Fm5@res.proxy-sale.com:10009
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10000
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10001
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10002
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10003
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10004
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10005
+http://2342cf9e195b878d:RNW78Fm5@res.proxy-sale.com:10006
